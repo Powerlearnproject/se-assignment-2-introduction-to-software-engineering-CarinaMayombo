@@ -1,0 +1,40 @@
+
+
+1. Selected my Operating System (OS): Windows 11
+Step 1:Visited the official Windows 11 download page: (Windows 11 Download)(https://www.microsoft.com/software-download/windows11).
+Step 2: I Followed on the on-screen instructions to download the Windows 11 installation media.
+Step 3:I Installed Windows 11 by running the setup from the installation media.Then Followed the prompts to complete the installation.
+
+FOR IDE
+2. Installed a Text Editor or Integrated Development Environment (IDE): Visual Studio Code
+Step 1:I visited the Visual Studio Code download page: Visual Studio Code Download(https://code.visualstudio.com/Download).
+Step 2:Then Downloaded the installer for my operating system (Windows).
+Step 3:Ran the installer and followed up the setup wizard to install Visual Studio Code.
+
+ Set Up Version Control System: Git and GitHub
+Step 1: Visited the Git download page: [Git Download](https://git-scm.com/downloads).
+Step 2:Downloaded and installed Git by running the installer and following the setup instructions.
+Step 3:Configured Git by opening a terminal and running:
+Step 4:Created a GitHub account at [GitHub](https://github.com).
+Step 5: Initialised a new Git repository
+
+4. Install Necessary Programming Languages and Runtimes: Python
+Step 1:Visited the Python download page: [Python Download](http://www.python.org).
+Step 2:Then Download the latest version of Python and run the installer. Ensure you check the box to add Python to your PATH during installation.
+Step 3:Verified the installation by opening a terminal and running.
+
+5. Configure a Database: MySQL
+Step 1:I visited the MySQL download page: [MySQL Download](https://dev.mysql.com/downloads/windows/installer/5.7.html).
+Step 2:Download and run the MySQL Installer.
+Step 3:Follow the setup wizard to install MySQL Server and configure it with the necessary root password.
+Step 4: Verify the installation by logging into the MySQL command line:
+
+ Exploring Extensions and Plugins
+Step 1:I Opened Visual Studio Code and went to the Extensions view by clicking the Extensions icon in the Activity Bar on the side of the window or pressing `Ctrl+Shift+X`.
+Step 2:Searched for and installed useful extensions like:
+- Python
+- GitLens
+- Prettier - Code formatter
+- ESLint
+
+.
